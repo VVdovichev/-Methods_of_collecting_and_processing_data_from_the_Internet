@@ -14,7 +14,11 @@ NEWSPIDER_MODULE = 'scrapy_job.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
+<<<<<<< HEAD
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:66.0.2) Gecko/20100101 Firefox/66.0.2'
+=======
+#USER_AGENT = 'scrapy_job (+http://www.yourdomain.com)'
+>>>>>>> origin/Homework_5
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
